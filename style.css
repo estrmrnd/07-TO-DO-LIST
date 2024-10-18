@@ -115,3 +115,9 @@ input[type="buttom"]{
     width: 4%;
     text-align: center;
 }
+
+@media (max-width: 767px){
+    .todo__title{
+        text-align: center;
+    }
+}
